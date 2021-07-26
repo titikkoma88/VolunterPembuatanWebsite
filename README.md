@@ -9,3 +9,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Panji Ramadhan Hadjarati, [Berbagi.Link](https://bagi.to/iamPanjiHadjarati).
+* Panji Ramadhan Hadjarati, [Github](https://jiepiranha.github.io/). 
+* Panji Ramadhan Hadjarati, [Linkedin](https://www.linkedin.com/in/panji-ramadhan-hadjarati-48094a179/).
