@@ -8,4 +8,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* Oon Ajiyanto, [oo.or.id](https://oo.or.id).
+* Panji Ramadhan Hadjarati, [Berbagi.Link](https://bagi.to/iamPanjiHadjarati).
